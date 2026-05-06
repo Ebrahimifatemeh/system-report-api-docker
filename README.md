@@ -1,8 +1,8 @@
 # System Report API with Docker Deployment
 
- #Project Topics
-- **Intermediate:** System Report API  
-- **Advanced:** Dockerized Web Server  
+## Project Overview
+
+Dockerized REST API for monitoring system resources including CPU, memory, disk usage, operating system information, and uptime. 
 
 ---
 
