@@ -77,8 +77,8 @@ The project demonstrates how simple security mechanisms can significantly improv
 
 ## System Flow
 
-```mermaid
-<img width="532" height="1148" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/81c46ca3-1adb-40d8-a8d4-4d010649d36e" />
+<img width="532" height="1148" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/c72bb89b-21f4-48e6-9a2a-9c96229e1c60" />
+
 
 graph TD
     A[Client Browser / PowerShell] --> B[Flask API Server]
